@@ -17,7 +17,7 @@ affiliation:
 author_note: >
   I would like to thank Anne-Wil Kruijt for her input on the original code used to generate Figure 1 in an earlier version of this paper. 
   
-  
+  The code used to run the simulations and generate this paper can be found in the OSF repository for this paper https://osf.io/msk2w/ 
   
   The author is currently supported by a grant from the Economic and Social Research Council [grant ref: ES/R004285/1]
 

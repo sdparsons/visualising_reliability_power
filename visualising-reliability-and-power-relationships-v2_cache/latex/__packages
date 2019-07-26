@@ -1,4 +1,7 @@
 base
+sylly
+koRpus
+koRpus.lang.en
 papaja
 tidyverse
 ggplot2
@@ -9,7 +12,4 @@ purrr
 dplyr
 stringr
 forcats
-sylly
-koRpus
-koRpus.lang.en
 wordcountaddin
