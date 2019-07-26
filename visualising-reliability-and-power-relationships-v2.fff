@@ -1,0 +1,20 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[H]
+\includegraphics{visualising-reliability-and-power-relationships-v2_files/figure-latex/plotting1-1} \caption{Visualising total variance decomposition into true-score variance (blue) and error variance (red). Reliability. The reliability (true variance / total variance) is indicated on the y axis. Left panel: total variance is held constant. Middle panel: true-score variance is held constant. Right panel: error variance is held constant}\label{fig:plotting1}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[H]
+\includegraphics{visualising-reliability-and-power-relationships-v2_files/figure-latex/plotting2-1} \caption{Observed probability of finding a significant result as a function of sample size and reliability where total variance is fixed (true-score and error variance alternate)}\label{fig:plotting2}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[H]
+\includegraphics{visualising-reliability-and-power-relationships-v2_files/figure-latex/plotting3-1} \caption{Observed probability of finding a significant result as a function of sample size and reliability where truescore is fixed and error variance is increased}\label{fig:plotting3}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[H]
+\includegraphics{visualising-reliability-and-power-relationships-v2_files/figure-latex/plotting4-1} \caption{Observed probability of finding a significant result as a function of sample size and reliability where error is fixed and truescore variance is varied.}\label{fig:plotting4}
+\end{figure*}
